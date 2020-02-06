@@ -1,0 +1,32 @@
+{
+  "name": "react-full-page-scroller",
+  "version": "0.0.1",
+  "description": "Full page scrolling for react (with typescript)",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DigitalBeastUK/react-full-page-scroller"
+  },
+  "keywords": [
+    "react",
+    "full page",
+    "scroller"
+  ],
+  "author": "DigitalBeastUK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DigitalBeastUK/react-full-page-scroller/issues"
+  },
+  "homepage": "https://github.com/DigitalBeastUK/react-full-page-scroller",
+  "dependencies": {
+    "@livelybone/mouse-wheel": "^4.1.0",
+    "@types/react": "^16.9.19",
+    "react": "^16.12.0",
+    "typescript": "^3.7.5",
+  },
+  "devDependencies": {
+  }
+}
